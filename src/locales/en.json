@@ -1,0 +1,33 @@
+{
+  "common": {
+    "unsaved": "You have unsaved changes. Are you sure you want to leave?",
+    "save": "Save",
+    "cancel": "Cancel",
+    "error": "Something went wrong! Please try again."
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "description": "Listen to great music from the 80s, 90s, and today! Upload your own music and share it with the world!",
+    "songs": "Songs"
+  },
+  "manage": {
+    "title": "My Songs",
+    "upload": "Upload",
+    "drop": "Drop your files here.",
+    "songInfo": "Artist - Title (Mix) [Label]",
+    "genre": "Genre",
+    "songInfoPlaceholder": "Enter artist, title, mix, and label",
+    "genrePlaceholder": "Enter genre",
+    "updating": "Please wait! Updating song...",
+    "updated": "Song updated successfully!"
+  },
+  "song": {
+    "comments": "No comments | 1 comment | {count} comments"
+  },
+  "about": {},
+  "register": {
+    "accept": "I accept Music's {0}.",
+    "tos": "Terms of Service"
+  },
+  "login": {}
+}

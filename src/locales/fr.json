@@ -1,0 +1,33 @@
+{
+  "common": {
+    "unsaved": "Vous avez des modifications non enregistrées. Êtes-vous sûr(e) de vouloir quitter ?",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "error": "Quelque chose s'est mal passé ! Veuillez réessayer."
+  },
+  "home": {
+    "listen": "Écoutez de la Musique Géniale !",
+    "description": "Écoutez de la musique géniale des années 80, 90 et d'aujourd'hui ! Téléchargez votre propre musique et partagez-la avec le monde !",
+    "songs": "Chansons"
+  },
+  "manage": {
+    "title": "Mes Chansons",
+    "upload": "Télécharger",
+    "drop": "Déposez vos fichiers ici.",
+    "songInfo": "Artiste - Titre (Mix) [Label]",
+    "genre": "Genre",
+    "songInfoPlaceholder": "Entrez l'artiste, le titre, le mix et le label",
+    "genrePlaceholder": "Entrez le genre",
+    "updating": "Veuillez patienter ! Mise à jour de la chanson en cours...",
+    "updated": "Chanson mise à jour avec succès !"
+  },
+  "song": {
+    "comments": "Pas comments | 1 comment | {count} comments"
+  },
+  "about": {},
+  "register": {
+    "accept": "J'accepte {0} de Music .",
+    "tos": "les conditions d'utilisation"
+  },
+  "login": {}
+}
