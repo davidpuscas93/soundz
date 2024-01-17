@@ -7,7 +7,7 @@ exports[`Snapshots AppSongItem.vue > renders correctly 1`] = `
 >
   <div>
     <router-link-stub
-      class="font-bold block text-gray-600"
+      class="font-bold block text-gray-600 composition-name"
       custom="false"
       to="[object Object]"
     />
