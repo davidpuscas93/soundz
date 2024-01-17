@@ -43,11 +43,14 @@ export default defineConfig({
       //   globPatterns: ["**/*.{js,css,html,png,jpg,}"],
       // },
     }),
-    /** Use for rollup-visualizer */
+    /** Use for rollup-visualizer. */
     // visualizer({
     //   open: true,
     // }),
   ],
+  test: {
+    globals: true,
+  },
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url)),

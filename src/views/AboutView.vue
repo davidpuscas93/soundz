@@ -1,6 +1,10 @@
 <template>
   <main>
-    <h1>This is an about page.</h1>
-    <base-button></base-button>
+    <div>
+      <div>
+        <h1>This is an about page.</h1>
+      </div>
+    </div>
+    <!-- <base-button /> -->
   </main>
 </template>

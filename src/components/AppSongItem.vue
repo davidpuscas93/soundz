@@ -1,6 +1,8 @@
 <template>
   <li
-    class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50"
+    class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50 snapshot"
+    :id="`song-id-${song.docId}`"
+    :class="`song-class-${song.docId}`"
   >
     <div>
       <router-link
